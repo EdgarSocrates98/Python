@@ -1,0 +1,7 @@
+É importante que o arquivo Python (Semantix_Edgar.py) esteja na mesma pasta ou local
+que o arquivoedges.dat, pois como ambos foram desenvolvidos no mesmo local
+e para facilitar na hora de testar, pois onde esta o nome do arquivo abaixo
+seria o caminho,como estão na mesma pasata ou local não precisa colocar nada
+a mais do que o proprio nome do arquivo.
+por exemplo se ele estivesse em outra pasta teria de colocar todo o caminho
+ficando assim: "c:/Users/usuario/Desktop/edges.dat" ou ./pasta/edges.dat
